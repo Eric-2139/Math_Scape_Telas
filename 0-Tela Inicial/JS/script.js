@@ -1,7 +1,7 @@
 function cadastro() {
-    window.location.href ='/cadastro'
+    window.location.href ='/Login_Cadastro'
 }
 
 function login() {
-    window.location.href = '/Login'
+    window.location.href = '/Login_Cadastro'
 }

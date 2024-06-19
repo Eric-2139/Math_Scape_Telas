@@ -15,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('../Images/background.png');
+    background-image: url('./imag_log_cad');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -37,7 +37,7 @@ body {
 .content::before {
     content: "";
     position: absolute;
-    background-image: url('../Images/background-form.png');
+    background-image: url('/imag_log_cad_for');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

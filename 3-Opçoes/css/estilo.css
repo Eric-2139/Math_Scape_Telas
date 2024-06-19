@@ -10,7 +10,7 @@ body {
     justify-content: center;
     flex-direction: column;
     height: 100vh;
-    background-image: url('../images/background.png');
+    background-image: url('/imag_ops');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
